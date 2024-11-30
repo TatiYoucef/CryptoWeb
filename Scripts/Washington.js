@@ -36,15 +36,15 @@ document.querySelector('.subm-js').addEventListener('click' , ()=>{
 });
 
 document.querySelector('.js-hint1').addEventListener('click' , ()=>{
-  window.location.href = "CryptoWeb/challenge1.html";
+  window.location.href = "../challenge1.html";
 });
 
 document.querySelector('.js-hint2').addEventListener('click' , ()=>{
-  window.location.href = "CryptoWeb/challenge2.html";
+  window.location.href = "../challenge2.html";
 });
 
 document.querySelector('.js-hint3').addEventListener('click' , ()=>{
-  window.location.href = "CryptoWeb/challenge3.html";
+  window.location.href = "../challenge3.html";
 });
 
 const onePiece = {
